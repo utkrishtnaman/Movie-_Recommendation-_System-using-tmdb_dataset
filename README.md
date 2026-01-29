@@ -1,4 +1,4 @@
-# 🎬 Movie_Recommendation_System using tmdb dataset 🎬
+# 🎬 Movie_Recommendation_System using tmdb dataset
 
 An end-to-end Machine Learning project that recommends movies based on content similarity. The application features a sleek web interface built with Streamlit and fetches real-time movie posters using the TMDB API.
 
